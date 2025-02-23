@@ -1,6 +1,6 @@
 # text-classification-longformer-comparison
 
-## Results
+# Results
 
  | Training Loss | Epoch | Step | Validation Loss | F1     | Accuracy |
 |-------------|-------|------|-----------------|--------|----------|
